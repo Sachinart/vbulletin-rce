@@ -220,4 +220,3 @@ This vulnerability demonstrates the critical importance of proper access control
 [^9]: https://www.exploit-db.com/exploits/38629
 
 [^10]: https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/vbulletin-remote-code-execution-cve-2020-7373/
-
