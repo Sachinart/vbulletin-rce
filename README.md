@@ -1,5 +1,5 @@
 
-# vBulletin replaceAdTemplate Remote Code Execution POC
+# vBulletin RCE 2025 replaceAdTemplate Remote Code Execution POC
 
 **Author:** Chirag Artani
 **CVE:** N/A (N-Day vulnerability)
